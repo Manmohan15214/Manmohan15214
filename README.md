@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    I am Manmohan Singh, a 4th year CSE undergraduate student at Chandigarh University.  
+    I am Manmohan Singh, a Software Engineer at Sopra Banking Software. 
     <br> 
     Welcome to my GitHub profile.
 </p>
